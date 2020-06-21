@@ -1,0 +1,28 @@
+
+Sub: Request to debug the code
+
+Respected Sir,
+			I tried to implement LinkedList concept in Java. Everything works fine with the code.
+			I tried debugging the code and everything seemed fine.
+			The only issue I faced was I was not able to insert a node at any desired location.
+			I also printed out the object references while debugging and everything seemed fine
+			but while traversing, the newly inserted node at desired location was not found within the LinkedList.
+			
+			Details of the program is given below.
+			
+			I request if you could go through the code and correct it if I were missing something, I would be much grateful to you
+			
+			
+			Yours Sincerely,
+			
+			Subhransu sekhar Behera 
+			
+			
+					PROGRAM DETAILS
+			===================================
+			Package name: dataStructure
+			Main class: MainClass.java
+			Operation Handling class: List.java
+			Node: Node.java
+			
+			IDE: Eclipse		
