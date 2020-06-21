@@ -1,6 +1,6 @@
 # Data Structure with Java
 
-There's an issue with adding a node in between the linkedlist. It gets added but dosen't shows up while callin the show method
+There's an issue with adding a node in between the linkedlist. It gets added but dosen't shows up while calling the show method
 
 ## Function Descreiption
 
